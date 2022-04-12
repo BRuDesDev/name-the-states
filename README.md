@@ -1,7 +1,7 @@
 # Name the States Game
 A game created using Python, Turtle Graphics, and Pandas modules - where player must try to name all the states on the map.<br>
-‼️ You may need to install Pandas module (this works for both Linux and Windows[cmd]):<br>
-<code>pip install pandas</code><br>
+‼️ If you get any errors running app you may have forgotten to install dependencies:<br>
+<code>pip install -r requirements.txt</code><br>
 
 _________________________________________________________________________________________________________________________
 
@@ -47,6 +47,9 @@ sudo git clone https://github.com/BRuDesDev/name-the-states.git
 </code><br>
 <code>
 cd name-the-states      
+</code><br>
+<code>
+pip install -r requirements.txt     
 </code><br>
 <code>
 python3 main.py				
